@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.BattleSimForm.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\bin\Debug\BattleSim.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\bin\Debug\BattleSim.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BattleSim\BattleSim\obj\Debug\BattleSim.pdb

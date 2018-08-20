@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\bin\Debug\Palindroom.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\bin\Debug\Palindroom.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\bin\Debug\Palindroom.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.Form1.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Palindroom\obj\Debug\Palindroom.pdb

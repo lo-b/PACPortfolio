@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\bin\Debug\Haxor.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\bin\Debug\Haxor.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\bin\Debug\Haxor.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.Form1.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\Haxor\obj\Debug\Haxor.pdb

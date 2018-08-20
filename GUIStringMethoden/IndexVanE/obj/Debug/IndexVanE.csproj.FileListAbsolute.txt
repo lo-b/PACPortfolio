@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\bin\Debug\IndexVanE.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\bin\Debug\IndexVanE.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\bin\Debug\IndexVanE.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.Form1.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\IndexVanE\obj\Debug\IndexVanE.pdb

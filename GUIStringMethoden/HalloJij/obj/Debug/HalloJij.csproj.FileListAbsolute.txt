@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\bin\Debug\HalloJij.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\bin\Debug\HalloJij.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\bin\Debug\HalloJij.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.Form1.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIStringMethoden\HalloJij\obj\Debug\HalloJij.pdb

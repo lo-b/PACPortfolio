@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\bin\Debug\BankrekeningChallenge.exe.config
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\bin\Debug\BankrekeningChallenge.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\bin\Debug\BankrekeningChallenge.pdb
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.Bankzaken.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.Properties.Resources.resources
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.exe
+C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\BankrekeningChallenge\BankrekeningChallenge\obj\Debug\BankrekeningChallenge.pdb
