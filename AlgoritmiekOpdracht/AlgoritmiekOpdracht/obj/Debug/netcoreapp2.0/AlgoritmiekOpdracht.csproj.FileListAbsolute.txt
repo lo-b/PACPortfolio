@@ -1,0 +1,11 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.deps.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.runtimeconfig.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.runtimeconfig.dev.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.dll
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.AssemblyInfoInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.AssemblyInfo.cs
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.dll
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.pdb

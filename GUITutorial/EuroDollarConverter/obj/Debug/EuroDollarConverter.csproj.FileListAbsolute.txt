@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\bin\Debug\EuroDollarConverter.exe.config
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\bin\Debug\EuroDollarConverter.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\bin\Debug\EuroDollarConverter.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.Properties.Resources.resources
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\EuroDollarConverter\obj\Debug\EuroDollarConverter.EuroDollarConverter.resources

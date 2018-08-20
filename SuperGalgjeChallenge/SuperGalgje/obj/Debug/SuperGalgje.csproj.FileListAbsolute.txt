@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\bin\Debug\SuperGalgje.exe.config
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\bin\Debug\SuperGalgje.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\bin\Debug\SuperGalgje.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.Properties.Resources.resources
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.SuperGalgje.resources
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\SuperGalgjeChallenge\SuperGalgje\obj\Debug\SuperGalgje.pdb

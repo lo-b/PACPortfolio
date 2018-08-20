@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\bin\Debug\Woordplakker.exe.config
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\bin\Debug\Woordplakker.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\bin\Debug\Woordplakker.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.Properties.Resources.resources
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Woordplakker\obj\Debug\Woordplakker.Woordplakker.resources

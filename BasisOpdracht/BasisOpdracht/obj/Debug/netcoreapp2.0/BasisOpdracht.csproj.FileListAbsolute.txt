@@ -1,0 +1,11 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\bin\Debug\netcoreapp2.0\BasisOpdracht.deps.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\bin\Debug\netcoreapp2.0\BasisOpdracht.runtimeconfig.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\bin\Debug\netcoreapp2.0\BasisOpdracht.runtimeconfig.dev.json
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\bin\Debug\netcoreapp2.0\BasisOpdracht.dll
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\bin\Debug\netcoreapp2.0\BasisOpdracht.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.AssemblyInfoInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.AssemblyInfo.cs
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.dll
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\BasisOpdracht\BasisOpdracht\obj\Debug\netcoreapp2.0\BasisOpdracht.pdb

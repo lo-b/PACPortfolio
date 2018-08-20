@@ -1,0 +1,10 @@
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.pdb
+C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\GUITutorial\Rekenmachine\obj\Debug\Rekenmachine.Rekenmachine.resources
