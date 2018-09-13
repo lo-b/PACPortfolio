@@ -9,3 +9,14 @@ C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOp
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.AssemblyInfo.cs
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.dll
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.deps.json
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.runtimeconfig.json
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.runtimeconfig.dev.json
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.dll
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\bin\Debug\netcoreapp2.0\AlgoritmiekOpdracht.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.csprojAssemblyReference.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.AssemblyInfoInputs.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.AssemblyInfo.cs
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.dll
+C:\Users\Bram Lo\Desktop\PACPortfolio\AlgoritmiekOpdracht\AlgoritmiekOpdracht\obj\Debug\netcoreapp2.0\AlgoritmiekOpdracht.pdb

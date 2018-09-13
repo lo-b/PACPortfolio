@@ -55,7 +55,7 @@
             this.buttonStartESearch.Location = new System.Drawing.Point(361, 314);
             this.buttonStartESearch.Name = "buttonStartESearch";
             this.buttonStartESearch.Size = new System.Drawing.Size(90, 23);
-            this.buttonStartESearch.TabIndex = 2;
+            this.buttonStartESearch.TabIndex = 0;
             this.buttonStartESearch.Text = "Zoek index";
             this.buttonStartESearch.UseVisualStyleBackColor = true;
             this.buttonStartESearch.Click += new System.EventHandler(this.buttonStartESearch_Click);

@@ -8,3 +8,13 @@ C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIOpdracht\Galgje\obj\De
 C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIOpdracht\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
 C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIOpdracht\Galgje\obj\Debug\Galgje.exe
 C:\Users\bram_\Desktop\Udemy\C#\Udemy-CSharp-Solutions\GUIOpdracht\Galgje\obj\Debug\Galgje.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\bin\Debug\Galgje.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\bin\Debug\Galgje.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.csprojAssemblyReference.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.Galgje.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.csproj.GenerateResource.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\GUIOpdracht\Galgje\obj\Debug\Galgje.pdb

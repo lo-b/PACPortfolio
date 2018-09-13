@@ -10,12 +10,8 @@ namespace BankrekeningChallenge
         private int _saldo;
 
         public Bankrekening(string naam)
+        :this(naam, 0)
         {
-            _naam = naam;
-            _saldo = 0;
-            _rekeningnummer = volgendeVrijeRekeningnummer;
-
-            volgendeVrijeRekeningnummer++;
         }
 
         public Bankrekening(string naam, int saldo)

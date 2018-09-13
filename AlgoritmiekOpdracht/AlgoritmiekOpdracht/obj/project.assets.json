@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bram_\\.nuget\\packages\\": {},
+    "C:\\Users\\Bram Lo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bram_\\Desktop\\Portfolio\\Fontys\\Pre_Assesment_Course\\repos\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht.csproj",
+      "projectUniqueName": "C:\\Users\\Bram Lo\\Desktop\\PACPortfolio\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht.csproj",
       "projectName": "AlgoritmiekOpdracht",
-      "projectPath": "C:\\Users\\bram_\\Desktop\\Portfolio\\Fontys\\Pre_Assesment_Course\\repos\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht.csproj",
-      "packagesPath": "C:\\Users\\bram_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bram_\\Desktop\\Portfolio\\Fontys\\Pre_Assesment_Course\\repos\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\obj\\",
+      "projectPath": "C:\\Users\\Bram Lo\\Desktop\\PACPortfolio\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht.csproj",
+      "packagesPath": "C:\\Users\\Bram Lo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bram Lo\\Desktop\\PACPortfolio\\AlgoritmiekOpdracht\\AlgoritmiekOpdracht\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bram_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bram Lo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

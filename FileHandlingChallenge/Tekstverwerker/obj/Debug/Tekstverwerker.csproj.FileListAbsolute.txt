@@ -8,3 +8,13 @@ C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingC
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.exe
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.pdb
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.Tekstverwerker.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\bin\Debug\Tekstverwerker.exe.config
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\bin\Debug\Tekstverwerker.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\bin\Debug\Tekstverwerker.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.csprojAssemblyReference.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.Tekstverwerker.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.Properties.Resources.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.csproj.GenerateResource.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.csproj.CoreCompileInputs.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstverwerker\obj\Debug\Tekstverwerker.pdb

@@ -8,3 +8,13 @@ C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingC
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.csproj.CoreCompileInputs.cache
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.exe
 C:\Users\bram_\Desktop\Portfolio\Fontys\Pre_Assesment_Course\repos\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\bin\Debug\Tekstbestandzoeker.exe.config
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\bin\Debug\Tekstbestandzoeker.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\bin\Debug\Tekstbestandzoeker.pdb
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.csprojAssemblyReference.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.Properties.Resources.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.Tekstbestandzoeker.resources
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.csproj.GenerateResource.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.csproj.CoreCompileInputs.cache
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.exe
+C:\Users\Bram Lo\Desktop\PACPortfolio\FileHandlingChallenge\Tekstbestandzoeker\obj\Debug\Tekstbestandzoeker.pdb
